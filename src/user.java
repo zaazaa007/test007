@@ -1,4 +1,4 @@
 public class user {
-    int x=30;
-    String s="abdo"
+    int x=007;
+    String s="abdo";
 }
